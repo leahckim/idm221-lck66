@@ -1,2 +1,1 @@
-# idm221-lck66
- IDM221 portfolio project 
+# Hi, my name is **Leah Kim**
