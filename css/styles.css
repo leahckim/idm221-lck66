@@ -12,17 +12,30 @@ body,header {
 
 h1 {
     font-family: 'Roboto Mono', monospace;
-    font-size: 32px
-    font-weight: bold
+    font-size: 32px;
+    font-weight: bold;
 
+}
+h2 {
+    font-family: 'Roboto Mono' , monospace;
+    font-size:26px;
+    font-weight: medium;
+    flex
 }
 h1, h2, p{
     margin: 20px;
 }
+
  .me {
     margin: 20px;
+    border-radius: 10px;
  }
+ 
+ .flex-container {
+    display: flex;
+    align-items: center;
 
-button {
-    text-align: center;
-}
+ }
+ .flex-container img {
+    margin-right: 10px;
+ }
